@@ -22,7 +22,10 @@ $$\begin{cases}
 \end{cases}$$
 
 When: 
-$$\begin{cases} \alpha = 1 \\ \beta = 1 \end{cases} \Rightarrow \begin{cases} \gamma = \varepsilon = 1 \\ \delta = -\frac{1}{3} \end{cases} \Rightarrow \Pi_1 = \frac{mgh}{FV^{\frac{1}{3}}}$$
+$$\begin{cases} 
+\alpha = 1 \\ 
+\beta = 1 
+\end{cases} \Rightarrow \begin{cases} \gamma = \varepsilon = 1 \\ \delta = -\frac{1}{3} \end{cases} \Rightarrow \Pi_1 = \frac{mgh}{FV^{\frac{1}{3}}}$$
 
 When: 
 $$\begin{cases} \alpha = 1 \\ \beta = 0 \end{cases} \Rightarrow \begin{cases} \gamma = \varepsilon = -1 \\ \delta = 0 \end{cases} \Rightarrow \Pi_2 = \frac{F}{mg}$$
